@@ -1,0 +1,33 @@
+
+<title>Exercise 14: External Style Sheet</title>
+
+#main-headline {
+  text-align: center;
+  color: blue;
+}
+
+#header {
+  text-align: center;
+}
+
+.place-description {
+  color: olive;
+  font-family: Verdana;
+}
+
+.person-description {
+  color: purple;
+}
+
+.top-favorite {
+  font-weight: bold;
+  color: red;
+}
+
+.important-point {
+  text-decoration: underline;
+}
+
+.emphasis {
+  font-style: italic;
+}
